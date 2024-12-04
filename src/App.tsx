@@ -1,4 +1,3 @@
-import React from 'react';
 import './App.css';
 import RegisterForm from './components/auth/RegisterForm';
 import LoginForm from './components/auth/LoginForm';
